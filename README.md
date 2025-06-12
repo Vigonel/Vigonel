@@ -1,9 +1,10 @@
 ### ✨ Olá, sou o Vinicius Elias ✨
 - Estudante de Ciência de Dados na Estácio - Termino em  Julho/2025.
 - Adoro assuntos relacionados a Dados, Machine Learning, Data Science, Eng. de Dados e Eng. de Analytics.
+- 3 Anos de Experiencia com Politicas de Crédito.
 - Buscando uma Recolocação no Mercado de Trabalho.
-
-## Linguagens e Ferramentas Utilizadas💻
+##
+### Linguagens e Ferramentas Utilizadas💻
 
   ![AWS](  https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-62a538?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -24,15 +25,16 @@
   ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-## GitHub Stats ⚡
+##
+### GitHub Stats ⚡
 
-<h4 align="center"> :construction: Git em Construção :relaxed: :construction: </h4>
+<h3 align="center"> :construction: Git em Construção :relaxed: :construction: </h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigonel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vigonel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Reach me 📫
+##
+### Onde me Encontrar 📫
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vingonelias/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vingon.elias/)
 [![Gmail](https://img.shields.io/badge/-vingon.elias@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:vingon.elias@gmail.com)](mailto:vingon.elias@gmail.com)
