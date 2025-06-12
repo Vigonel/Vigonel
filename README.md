@@ -26,8 +26,7 @@
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
   
 ##
-### GitHub Stats ⚡
-<h3 align="center"> :construction: Stats em Construção :relaxed: :construction: </h3>
+### :construction: GitHub Stats em Construção :relaxed: :construction:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vigonel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
@@ -41,7 +40,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1371587448278352002)
 
 <!--
-
+<h3 align="center"> :construction: Stats em Construção :relaxed: :construction: </h3>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vigonel&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) -- Grande
 **Vigonel/Vigonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
