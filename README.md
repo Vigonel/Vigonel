@@ -30,18 +30,23 @@
 
 <p align="center">
 <a href="https://github.com/vigonel">
-  <img height="190em" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api?username=vigonel&show_icons=true&theme=highcontrast&locale=pt-br&rank_icon=github" />
-  <img height="190em" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api/top-langs/?username=vigonel&theme=highcontrast&locale=pt-br&layout=compact&langs_count=15" />
+  <img loading="lazy" height="190em" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api?username=vigonel&show_icons=true&theme=highcontrast&locale=pt-br&rank_icon=github" />
+  <img loading="lazy" height="190em" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api/top-langs/?username=vigonel&theme=highcontrast&locale=pt-br&layout=compact&langs_count=15" />
 </a>
 </p>
 
 
 ##
 ### Onde me Encontrar 📫
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vingonelias/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vingonelias/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vingon.elias/)
 [![Gmail](https://img.shields.io/badge/-vingon.elias@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:vingon.elias@gmail.com)](mailto:vingon.elias@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1371587448278352002)
+
+##
+
+![Snake animation](https://github.com/vigonel/vigonel/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 
