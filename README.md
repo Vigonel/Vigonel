@@ -43,13 +43,13 @@
 [![Gmail](https://img.shields.io/badge/-vingon.elias@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:vingon.elias@gmail.com)](mailto:vingon.elias@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1371587448278352002)
 
-##
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vigonel/vigonel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vigonel/vigonel/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vigonel/vigonel/output/github-contribution-grid-snake.svg">
 </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--
 
