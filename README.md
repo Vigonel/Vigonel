@@ -28,13 +28,12 @@
 ##
 ### :construction: GitHub Stats em Construção :relaxed: :construction:
 
-
-<a href="https://github.com/vigonel/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api?username=vigonel&show_icons=true&theme=highcontrast&locale=pt-br&rank_icon=github&card_width=450" />
+<p align="center">
+<a href="https://github.com/vigonel">
+  <img height="190em" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api?username=vigonel&show_icons=true&theme=highcontrast&locale=pt-br&rank_icon=github" />
+  <img height="190em" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api/top-langs/?username=vigonel&theme=highcontrast&locale=pt-br&layout=compact&langs_count=15" />
 </a>
-<a href="https://github.com/vigonel/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api/top-langs/?username=vigonel&theme=highcontrast&locale=pt-br&layout=compact&card_width=350&langs_count=15" />
-</a>
+</p>
 
 
 ##
@@ -45,8 +44,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1371587448278352002)
 
 <!--
-<h3 align="center"> :construction: Stats em Construção :relaxed: :construction: </h3>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vigonel&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) -- Grande
+
 **Vigonel/Vigonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
