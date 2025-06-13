@@ -28,9 +28,14 @@
 ##
 ### :construction: GitHub Stats em Construção :relaxed: :construction:
 
-![Top Langs](https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api/top-langs/?username=vigonel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![GitHub Stats](https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api?username=vigonel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+<a href="https://github.com/vigonel/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api?username=vigonel&show_icons=true&theme=highcontrast&locale=pt-br&rank_icon=github&card_width=450" />
+</a>
+<a href="https://github.com/vigonel/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api/top-langs/?username=vigonel&theme=highcontrast&locale=pt-br&layout=compact&card_width=350&langs_count=15" />
+</a>
+
 
 ##
 ### Onde me Encontrar 📫
@@ -54,4 +59,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+ 
+![GitHub Stats](https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api?username=vigonel&show_icons=true&theme=highcontrast&locale=pt-br&rank_icon=github&card_width=450)
+
+![Top Langs](https://github-readme-stats-vinicius-elias-projects-934e99c5.vercel.app/api/top-langs/?username=vigonel&theme=highcontrast&locale=pt-br&layout=compact&card_width=350&langs_count=15)
 -->
