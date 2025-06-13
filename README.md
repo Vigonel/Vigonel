@@ -35,6 +35,7 @@
 </a>
 </p>
 
+_generated with [anuraghazra/github-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 ##
 ### Onde me Encontrar 📫
